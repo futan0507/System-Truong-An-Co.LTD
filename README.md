@@ -1,6 +1,6 @@
 # System-Truong-An-Co.LTD
-# User Managament
+# User Management
 # Troubleshoot 
-# System Server Managament
-# Network Managament
-# Backup
+# System Server Management
+# Network Management
+# Backup & Restore
